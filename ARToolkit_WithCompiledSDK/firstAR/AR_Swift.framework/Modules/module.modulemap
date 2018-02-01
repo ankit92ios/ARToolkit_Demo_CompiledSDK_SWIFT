@@ -1,0 +1,6 @@
+framework module AR_Swift {
+  umbrella header "AR_Swift.h"
+
+  export *
+  module * { export * }
+}
